@@ -46,8 +46,8 @@
   },
   "copy": {
     "buttonText": "已复制 ✓",
-    "htmlLength": 5401,
-    "textLength": 531,
+    "htmlLength": 5387,
+    "textLength": 517,
     "hasInlineStyles": true,
     "hasFormatterMarker": true,
     "hasBrandBlue": true
