@@ -1,0 +1,27 @@
+{
+  "targetUrl": "http://localhost:3000/",
+  "structure": {
+    "sections": 10,
+    "paragraphs": 22,
+    "hasInlineStyle": true,
+    "hasBrandBlue": true,
+    "hasMarker": true,
+    "previewWidth": 375,
+    "titleFontSize": "27px",
+    "bodyFontSize": "15px",
+    "bodyLineHeight": "29.25px",
+    "kickerColor": "rgb(51, 103, 246)",
+    "viewportWidth": 1440
+  },
+  "copy": {
+    "buttonText": "已复制 ✓",
+    "toast": "✓富文本已复制，可直接粘贴到公众号编辑器",
+    "htmlLength": 5401,
+    "textLength": 531,
+    "hasInlineStyles": true,
+    "hasFormatterMarker": true,
+    "hasBrandBlue": true
+  },
+  "consoleErrors": [],
+  "generatedAt": "2026-08-16T05:05:09.026Z"
+}
