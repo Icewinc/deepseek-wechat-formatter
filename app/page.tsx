@@ -118,7 +118,7 @@ export default function Home() {
           <span className="brand-mark" aria-hidden="true"><span /></span>
           <span>
             <strong>DeepSeek Content Studio</strong>
-            <small>品牌公众号排版器 · 笔试演示原型</small>
+            <small>品牌公众号排版器 · 演示项目</small>
           </span>
         </a>
         <div className="save-state"><span /> 内容仅在当前页面处理，不会上传</div>
@@ -230,7 +230,7 @@ export default function Home() {
       </section>
 
       <footer className="page-footer">
-        <p>本页面为求职笔试演示原型，与 DeepSeek 官方无隶属或授权关系；未使用官方 LOGO。</p>
+        <p>本页面为独立演示项目，与 DeepSeek 官方无隶属或授权关系；未使用官方 LOGO。</p>
         <p>最佳体验：最新版 Chrome / Edge / Safari · 复制富文本需 localhost 或 HTTPS</p>
       </footer>
 

@@ -1,6 +1,6 @@
 # 产品设计说明 · DeepSeek Content Studio
 
-> 品牌专属公众号排版器（笔试演示原型），品牌示例：DeepSeek
+> 品牌专属公众号排版器（演示项目），品牌示例：DeepSeek
 
 ## 1. 背景与目标
 
