@@ -40,7 +40,7 @@ app/                页面与样式（Vinext/React）
 lib/formatter.mjs   排版规则引擎（识别 + 内联 HTML 渲染）
 scripts/e2e-qa.mjs  浏览器端到端自测与演示截图脚本
 tests/              单元测试与服务端渲染测试
-docs/               产品说明、AI 使用说明、演示方案、测试报告、提交清单
+docs/               产品说明、演示方案、测试报告
 demo/               排版前/排版后/复制成功截图 + QA 结果
 public/             分享图与 favicon
 ```
@@ -50,10 +50,8 @@ public/             分享图与 favicon
 - 可运行产物：本仓库 + `npm run dev`
 - 真实示例对比：`demo/01-input.png` → `demo/02-output.png`（另含复制成功截图）
 - 产品说明：`docs/product-design.md`
-- AI 使用说明：`docs/ai-usage.md`
 - 演示方案：`docs/demo-script.md`
 - 测试报告：`docs/test-report.md`
-- 提交清单：`docs/submission-checklist.md`
 
 ## 说明与边界
 

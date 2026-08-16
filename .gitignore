@@ -39,4 +39,5 @@ yarn-error.log*
 /outputs/
 /work/
 /release/
+/local/
 *.log
